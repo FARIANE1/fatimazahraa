@@ -1,0 +1,37 @@
+[
+     {
+          "ID": "1",
+          "Nom": "fatima ezzahra",
+          "chef_département": "yahya",
+          "description": "hhhhhh",
+          "idmatricule": 1
+     },
+     {
+          "ID": "2",
+          "Nom": "yahya",
+          "chef_département": "hhhhh",
+          "description": "uuuuu",
+          "idmatricule": 2
+     },
+     {
+          "ID": "1",
+          "Nom": "amine",
+          "chef_département": "uuuuu",
+          "description": "iiiiii",
+          "idmatricule": 3
+     },
+     {
+          "ID": "1",
+          "Nom": "mohammed ",
+          "chef_département": " n",
+          "description": ",njmL",
+          "idmatricule": 4
+     },
+     {
+          "ID": "1",
+          "Nom": "doha",
+          "chef_département": "n;bnbbn",
+          "description": "hjb",
+          "idmatricule": 5
+     }
+]

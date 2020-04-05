@@ -1,0 +1,58 @@
+[
+     {
+          "Matricule": "3",
+          "id": 1,
+          "nom": "fati",
+          "Prenom": "ariane",
+          "Age": "25",
+          "salaire": "50000 DH "
+     },
+     {
+          "Matricule": "3",
+          "id": 2,
+          "nom": "amine",
+          "Prenom": "homir",
+          "Age": "23",
+          "salaire": "35000 dh"
+     },
+     {
+          "Matricule": "1",
+          "id": 3,
+          "nom": "YAHYA",
+          "Prenom": "TOUjni",
+          "Age": "23",
+          "salaire": "10000 DH"
+     },
+     {
+          "Matricule": "1",
+          "id": 4,
+          "nom": "mohammed",
+          "Prenom": "abou",
+          "Age": "20ans",
+          "salaire": "40000 DH"
+     },
+     {
+          "Matricule": "2",
+          "id": 5,
+          "nom": "doha",
+          "Prenom": "saad",
+          "Age": "25ans",
+          "salaire": "39999 DH"
+     },
+     {
+          "Matricule": "4",
+          "id": 6,
+          "nom": "ariane",
+          "Prenom": " , n,bgi",
+          "Age": "juh",
+          "salaire": ""
+     },
+     {
+          "Matricule": "5",
+          "id": 7,
+          "nom": "ariane",
+          "Prenom": "yy",
+          "Age": "n,,",
+          "salaire": "uuu"
+     }
+]
